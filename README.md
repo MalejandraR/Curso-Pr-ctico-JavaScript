@@ -1,2 +1,2 @@
-# Curso-Pr-ctico-JavaScript
+# Curso-Practico-JavaScript
 Mi primer proyecto 
